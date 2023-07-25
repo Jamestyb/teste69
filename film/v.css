@@ -1,0 +1,23 @@
+.video{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    
+}
+
+iframe{
+    width: 100vw;
+    height: 56.25vw;
+    max-height: 90vh;
+    max-width: 177.78vh;
+    margin: auto 30px;
+    position: absolute;
+    
+}
+
+body{
+    background-color: black;
+} 
+
